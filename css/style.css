@@ -13,3 +13,11 @@ body {
 #list{
     text-align: center;
 }
+@media only screen and (max-width: 480px){
+        #image {
+            background-color: white;
+            height: 100vh;
+            width: 100vw;
+        }
+    }
+}
